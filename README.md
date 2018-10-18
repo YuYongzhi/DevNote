@@ -1,2 +1,5 @@
 # DevNote
-developer notes
+
+## [IJKPlayer 编译so](doc/ijkplayer.md)
+
+
